@@ -1,6 +1,6 @@
 # SnapFace Project (OpenClassrooms)
 
-![SnapFace Logo]([link_to_your_logo.png](https://user.oc-static.com/upload/2021/11/11/16366495596929_snapface.png))
+![SnapFace Logo](https://user.oc-static.com/upload/2021/11/11/16366495596929_snapface.png)
 
 ## Introduction
 
